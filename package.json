@@ -1,0 +1,8 @@
+{
+	"scripts": {
+		"check": "biome check --write --unsafe ."
+	},
+	"dependencies": {
+		"@biomejs/biome": "^1.9.4"
+	}
+}
